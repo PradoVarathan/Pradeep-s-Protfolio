@@ -29,7 +29,7 @@ subtitle = ""
 
 [[feature]]
   icon = "project-diagram"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Cytoscape"
   description = "Complete Network analysis"
 # Uncomment to use emoji icons.
