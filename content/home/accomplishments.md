@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Intern&shy;ships"
+title = "Internships"
 subtitle = ""
 
 # Date format
@@ -19,14 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = """Basal Ganglia Explorers, Indian Institute of Technology Madras"""
+  organization = "Basal Ganglia Explorers, Indian Institute of Technology Madras"
   organization_url = ""
   title = "Research Intern"
   url = ""
   certificate_url = "https://www.coursera.orghttps://sites.google.com/view/bgx/team?authuser=0"
   date_start = "2018-07-01"
   date_end = "2018-09-31"
-  description = """Created a model network of neurons depending on the subject conditions to characterize various energy requirements of a particular disease. """
+  description = """Created a model network of neurons depending on the subject conditions to characterize various energy requirements
+  of a particular disease."""
 
 [[item]]
   organization = "Research Intern"
@@ -37,4 +38,5 @@ date_format = "Jan 2006"
   date_start = "2017-11-01"
   date_end = "2017-12-31"
   description = """Placed on circulation to learn various techniques, study signaling pathways unique for neuronal stem cells and witness animal experiments.Worked on Cytoscape to analyze gene microarray networks from the experimental microarray data of neuronal stem cells."""
+
 +++
