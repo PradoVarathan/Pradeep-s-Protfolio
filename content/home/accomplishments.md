@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Basal Ganglia Explorers, Indian Institute of Technology Madras"
+  organization = """Basal Ganglia Explorers, Indian Institute of Technology Madras"""
   organization_url = ""
   title = "Research Intern"
   url = ""
