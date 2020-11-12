@@ -23,9 +23,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Bioinformatics 
-    institution: Indiana University
-    year: 2019-2023
   - course: Bachelors in Biotechnology 
     institution: National Institute of Technology Calicut
     year: 2015-2019
