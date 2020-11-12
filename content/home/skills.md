@@ -18,20 +18,20 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "PRS packages/ Built ImmuneSpect"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "C-SHAL and Deep Learning pipeline" 
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
+[[feature]]
+  icon = "project-diagram"
+  icon_pack = "fab"
+  name = "Cytoscape"
+  description = "Complete Network analysis"
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
