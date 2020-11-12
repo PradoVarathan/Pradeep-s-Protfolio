@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "Research Intern"
   url = ""
-  certificate_url = "https://sites.google.com/view/bgx/team?authuser=0"
+  certificate_url = ""
   date_start = "2018-07-01"
   date_end = "2018-09-30"
   description = """Created a model network of neurons depending on the subject conditions to characterize various energy requirements
