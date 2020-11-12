@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Intern&shy;ships"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Basal Ganglia Explorers, Indian Institute of Technology Madras"
+  organization_url = ""
+  title = "Research Intern"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = "https://www.coursera.orghttps://sites.google.com/view/bgx/team?authuser=0"
+  date_start = "2018-07-01"
+  date_end = "2018-09-31"
+  description = "Created a model network of neurons depending on the subject conditions to characterize various energy requirements of a particular disease. "
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Research Intern"
+  organization_url = ""
+  title = "Rajiv Gandhi Centre for Biotechnology"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
+  certificate_url = ""
+  date_start = "2017-11-01"
+  date_end = "2017-12-31"
+  description = "Placed on circulation to learn various techniques, study signaling pathways unique for neuronal stem cells and witness animal experiments.Worked on Cytoscape to analyze gene microarray networks from the experimental microarray data of neuronal stem cells.
+"
 +++
