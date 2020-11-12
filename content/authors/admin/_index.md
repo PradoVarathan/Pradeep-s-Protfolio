@@ -65,9 +65,9 @@ highlight_name: false
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
- ** “It is not uncommon for people to spend their whole life waiting to start living.” ** -_Eckhart Tolle_
+**'It is not uncommon for people to spend their whole life waiting to start living.'** -_Eckhart Tolle_
 
 Pradeep Varathan is a doctoral student in Bioinformatics at Indiana University. Being born in Chennai, India and graduating with the bachelors degree in Biotechnology, he had his eyes set on exploring the connection between biology and computer science, and the very essence of medicine in the future, precision medicine. He spends his days working on multiple approaches to build tools and analyze data for precision diagnosis and identification of genetic factors for neurodegenerative disorders while following the words of _Tolle_ to its truest sense.
 
