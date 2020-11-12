@@ -36,6 +36,5 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-11-01"
   date_end = "2017-12-31"
-  description = "Placed on circulation to learn various techniques, study signaling pathways unique for neuronal stem cells and witness animal experiments.Worked on Cytoscape to analyze gene microarray networks from the experimental microarray data of neuronal stem cells.
- "
+  description = "Placed on circulation to learn various techniques, study signaling pathways unique for neuronal stem cells and witness animal experiments.Worked on Cytoscape to analyze gene microarray networks from the experimental microarray data of neuronal stem cells."
 +++
