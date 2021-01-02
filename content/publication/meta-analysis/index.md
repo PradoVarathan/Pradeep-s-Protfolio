@@ -55,7 +55,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 'content/project/Meta-Analysis/index.md'
+projects: 
+- Meta-Analysis
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
