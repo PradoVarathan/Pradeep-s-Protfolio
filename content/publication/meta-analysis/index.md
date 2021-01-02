@@ -23,9 +23,6 @@ publication_short:
 abstract: The mangrove ecosystem is one of the wealthiest organic and salt containing ecosystem. It has a large biomass consisting of bacteria, fungi, plants and other potential organisms. The recent boom in the discovery of bioactive compounds from the mangrove ecosystem is a potential minefield to inspect for potential drug molecules for various diseases. Meta-analysis offers potential to reveal intrinsic observations from large-scale data. The data that obtained from literature meta-analysis decode the high-throughput results that were mapped. Focusing on the usage of a more stringent method of meta-analysis to elucidate the bioactive compounds from the mangrove ecosystem a total of 365 research articles were analysed here and promised potent drug molecules to isolate from mangrove environment. Meta-analysis was carried using software BibExcel and R program. A total of eight research articles exclusively focused on bioactive compounds as a drug candidate to treat neurodegenerative disease. This article will construct a holistic approach to analyze and explore the vast field of bioactive compounds in the mangrove ecosystem. A systematic review by bibliometric analysis is a streamline method to find out lead molecules as a therapeutic drug molecule to multiple diseases, out of which this review attempts to cover the neurodegenerative diseases. Thus, BibExcel and R program can be implemented in any research field to examine the structure and development undertaken to date.
 
 # Summary. An optional shortened abstract.
-summary: 
-
-tags:
 
 featured: true
 
@@ -47,10 +44,4 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - Meta-Analysis
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 
