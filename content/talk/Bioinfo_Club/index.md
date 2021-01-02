@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: static/media/youtube_talk.png
+  caption: ""
   focal_point: Right
 
 links:
