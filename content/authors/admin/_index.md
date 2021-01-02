@@ -18,8 +18,9 @@ bio: My research interests include neuroinformatics, neurodegenerative diseases,
 
 interests:
 - Deep Learning
+- Neuroscience
 - Systems Biology
-- Information Retrieval
+- Network Analysis
 
 education:
   courses:
@@ -35,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:pradeepvarathanpugalenthi@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/VarathanPradeep
