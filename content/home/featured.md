@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 3
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -53,7 +53,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-   image = "IMG_4235.JPG"  # Name of image in `static/media/`.
+   image = "linhui_paper.png"  # Name of image in `static/media/`.
    image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
