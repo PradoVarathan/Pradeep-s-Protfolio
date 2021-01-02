@@ -30,7 +30,7 @@ summary: Network analysis of multi-omic data using modularity constrained Lasso 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

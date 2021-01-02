@@ -30,7 +30,7 @@ summary: Meta-analysis using multiple tools to strategically isolate important r
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
