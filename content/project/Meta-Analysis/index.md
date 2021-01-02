@@ -3,6 +3,7 @@ title: Meta Analysis of literature on mangrove compounds used to treat neurodege
 summary: Using tools including R and BibExcel for statistical analysis of literature
 tags:
 - Meta Analysis
+- Network Analysis
 date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
