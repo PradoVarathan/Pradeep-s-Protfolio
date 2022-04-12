@@ -27,7 +27,6 @@ date_format = "Jan 2006"
   date_start = "2021-05-17"
   date_end = "2021-11-17"
   description = """Worked on developing the metanetwork package with multiple network building algorithms, module construction algorithms and finally building a consensus network over different methods in R while collaborating over git and confluence, using the AWS cluster and MUNNIN supercomputer. Also, worked on creating a new pipeline using YML config files and created terminal-R based wrappers for the entire process and created a new package to process metanetwork and connect with Synapse. Built a CentOS-based docker container to run the whole pipeline in R and include Singularity for HPC work.
-![image](https://user-images.githubusercontent.com/36885090/162860098-c64ac2ef-58d0-4d5b-896c-4b7bf09dd1f8.png)
 """
 
 [[item]]
