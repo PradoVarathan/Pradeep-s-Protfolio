@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Data Analyst Intern"
+  organization_url = "https://sagebionetworks.org/"
+  title = "Sage Bionetworks"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-05-17"
+  date_end = "2021-11-17"
+  description = """Worked on developing the metanetwork package with multiple network building algorithms, module construction algorithms and finally building a consensus network over different methods in R while collaborating over git and confluence, using the AWS cluster and MUNNIN supercomputer. Also, worked on creating a new pipeline using YML config files and created terminal-R based wrappers for the entire process and created a new package to process metanetwork and connect with Synapse. Built a CentOS-based docker container to run the whole pipeline in R and include Singularity for HPC work.
+![image](https://user-images.githubusercontent.com/36885090/162860098-c64ac2ef-58d0-4d5b-896c-4b7bf09dd1f8.png)
+"""
+
+[[item]]
   organization = "Basal Ganglia Explorers, Indian Institute of Technology Madras"
   organization_url = ""
   title = "Research Intern"
@@ -38,4 +50,6 @@ date_format = "Jan 2006"
   date_start = "2017-11-01"
   date_end = "2017-12-30"
   description = """Placed on circulation to learn various techniques, study signaling pathways unique for neuronal stem cells and witness animal experiments.Worked on Cytoscape to analyze gene microarray networks from the experimental microarray data of neuronal stem cells."""
+  
+
 +++
