@@ -14,10 +14,11 @@ organizations:
   url: "https://www.iupui.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neuroinformatics, neurodegenerative diseases, network analysis and deep learning.
+bio: My research interests include multiomics, neurodegenerative diseases, network analysis and deep learning.
 
 interests:
-- Deep Learning
+- Deep Learning (ML,GNN)
+- Multiomics
 - Neuroscience
 - Systems Biology
 - Network Analysis
@@ -37,9 +38,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:pradeepvarathanpugalenthi@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/VarathanPradeep
 - icon: github
   icon_pack: fab
   link: https://github.com/PradoVarathan
